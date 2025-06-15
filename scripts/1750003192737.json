@@ -1,0 +1,9 @@
+{
+  "id": 1750003192737,
+  "titleTop": "Xeter Hub V2",
+  "titleBottom": "Đéo Biết",
+  "script": "getgenv().Version = \"V2\"\r\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/LuaCrack/Loader/main/Xeter.lua\"))()",
+  "image": "https://raw.githubusercontent.com/AnhAnDz/Repo/main/images/1750003192737Screenshot_2025-06-08-12-59-40-848_com.roblox.client.vnggames.jpg",
+  "date": "15/06/2025",
+  "author": "XeterHub"
+}
